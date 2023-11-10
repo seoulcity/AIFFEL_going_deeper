@@ -3,4 +3,6 @@
 01_02_NSMC/korean_spm*
 01_02_NSMC/.ipynb_checkpoints/
 *.temp
-*.h5
+*.ih5
+*.gz
+*.zip
