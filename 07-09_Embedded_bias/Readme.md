@@ -1,6 +1,6 @@
 ### AIFFEL Campus Online Code Peer Review Templete
 - 코더 : 김정현
-- 리뷰어 :
+- 리뷰어 : 박태하
 
 ### 뉴스 카테고리 다중분류
 #### 요구사항
@@ -20,6 +20,20 @@
     - 문제를 해결하는 완성된 코드란 프로젝트 루브릭 3개 중 2개,
     퀘스트 문제 요구조건 등을 지칭
         - 해당 조건을 만족하는 코드를 캡쳐해 근거로 첨부
+     
+            워드 임베팅 모델 만들기
+         ![image](https://github.com/seoulcity/AIFFEL_going_deeper/assets/110083249/8bf68c8c-2e5a-4940-acc4-facd0979dfad)
+     
+           장르별 대표단어 출력
+         ![image](https://github.com/seoulcity/AIFFEL_going_deeper/assets/110083249/987cae6e-fbc6-46dc-8983-da78de6f2a63)
+
+            장르별 셋 만들기
+         ![image](https://github.com/seoulcity/AIFFEL_going_deeper/assets/110083249/4045a151-3f78-4b6c-8372-b6e1830f3b25)
+
+            히트맵 - 시각화
+
+         ![image](https://github.com/seoulcity/AIFFEL_going_deeper/assets/110083249/962d69cc-cb2a-41ef-97b9-9187b69a157d)
+
 
 
 - [ ]  **2. 전체 코드에서 가장 핵심적이거나 가장 복잡하고 이해하기 어려운 부분에 작성된
@@ -28,6 +42,8 @@
     - 해당 코드가 무슨 기능을 하는지, 왜 그렇게 짜여진건지, 작동 메커니즘이 뭔지 기술.
     - 주석을 보고 코드 이해가 잘 되었는지 확인
         - 잘 작성되었다고 생각되는 부분을 캡쳐해 근거로 첨부합니다.
+     
+          기본적으로 코드에 주석을 남기셔서 보기 편했습니다.
 
 
 - [ ]  **3. 에러가 난 부분을 디버깅하여 문제를 “해결한 기록을 남겼거나”
@@ -43,6 +59,10 @@
     배운점과 아쉬운점, 느낀점 등이 기록되어 있는지 확인
     - 전체 코드 실행 플로우를 그래프로 그려서 이해를 돕고 있는지 확인
         - 잘 작성되었다고 생각되는 부분을 캡쳐해 근거로 첨부합니다.
+     
+          회고와 노드에 대한 요약 및 느낀점을 상세하게 작성하셨습니다
+          ![image](https://github.com/seoulcity/AIFFEL_going_deeper/assets/110083249/a3afe590-77d9-4dca-a636-b72a2e0f6eae)
+
 
 
 - [ ]  **5. 코드가 간결하고 효율적인가요?**
