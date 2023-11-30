@@ -6,6 +6,8 @@
 *.ih5
 *.gz
 *.zip
+*.bin
+*.h5
 **/.ipynb_checkpoints
 10-12_Seq2seq_interpreter/Mecab-ko-for-Google-Colab/
 10-12_Seq2seq_interpreter/kor-eng-train/
