@@ -1,7 +1,7 @@
 ### AIFFEL Campus Online Code Peer Review Templete
 - 코더 : 김정현
-- 리뷰어 :
-
+- 리뷰어 : 박태하
+  
 ### 뉴스 카테고리 다중분류
 #### 요구사항
 
