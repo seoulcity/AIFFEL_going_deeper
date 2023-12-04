@@ -1,6 +1,6 @@
 ### AIFFEL Campus Online Code Peer Review Templete
 - 코더 : 김정현
-- 리뷰어 :
+- 리뷰어 : 박태하
 
 #### 요구사항(평가문항 상세기준)
 1. 한글 코퍼스를 가공하여 BERT pretrain용 데이터셋을 잘 생성하였다.
